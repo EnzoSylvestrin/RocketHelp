@@ -36,5 +36,5 @@ npm i --save
 então abra o terminal no diretório em que está o projeto e utilize 
 
 ```
-npm start
+expo start
 ```
