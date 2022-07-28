@@ -4,7 +4,7 @@ import Auth from '@react-native-firebase/auth';
 import { useState } from 'react';
 import { FontAwesome } from "@expo/vector-icons"
 
-import Logo from '../assets/logo_primary.svg'
+import Logo from '../assets/logo_primary.svg';
 
 import { Input } from "../components/Input";
 import { Button } from "../components/Button";

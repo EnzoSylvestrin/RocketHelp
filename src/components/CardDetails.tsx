@@ -1,4 +1,4 @@
-import { VStack, HStack, Text, Box, useTheme, Icon } from 'native-base';
+import { VStack, HStack, Text, Box, useTheme } from 'native-base';
 import { ReactNode } from 'react';
 import { IconProps } from 'phosphor-react-native';
 
